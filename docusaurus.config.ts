@@ -99,28 +99,6 @@ const config: Config = {
             },
           ],
         },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Discord',
-              href: '',
-            },
-            {
-              label: 'X',
-              href: '',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'GitHub',
-              href: '',
-            },
-          ],
-        },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} NexoraFinance, Inc. Built with Docusaurus.`,
     },
