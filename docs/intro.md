@@ -2,46 +2,15 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Nexora Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Nexora is an innovative, modular DeFi yield protocol designed for simplicity and stability, leveraging cross-chain technology to seamlessly integrate with various DeFi protocols across multiple blockchains.
 
-## Getting Started
+1. In the EVM ecosystem, Nexora supports deep integration with leading protocols such as Aave V3, Compound, Uniswap V3, Uniswap V2, Morpho, Gains, and Aerodrome.
+2. On the Solana chain, it connects with top-tier protocols like Raydium, Jup, and Kamino
+3. While on the Sui network, it is compatible with protocols such as Cetus and Navi.
+4. We are also working on integrating with other chains like Binance Smart Chain, Polygon, and Avalanche ...
 
-Get started by **creating a new site**.
+What sets Nexora apart is its flexibility and creative potential. Users can design personalized investment strategies tailored to their needs or follow curated strategies created by experienced curators. Thanks to cross-chain technology, users can capture higher yields available on other chains without transferring their assets, significantly enhancing capital efficiency.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Moreover, Nexora's modular design empowers each curator to freely select their preferred protocol modules to craft strategies aligned with their specific goals. This flexibility not only caters to the diverse needs of users but also fosters limitless innovation among participants in the ecosystem.
