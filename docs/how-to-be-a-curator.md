@@ -2,9 +2,9 @@
 sidebar_position: 3
 ---
 
-# How to Become a Curator?
+# How to be a curator?
 
-Anyone can apply to become a curator through HyperOmniFinance by executing the "register" action in Governance and waiting for governance approval.
+Everyone can apply to be a curator through NexoraFinance by executing the "register" action in Governance and waiting for governance approval.
 
 ```solidity
 //Register and get vetted to become a curator
