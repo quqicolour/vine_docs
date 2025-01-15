@@ -7,6 +7,24 @@ sidebar_position: 3
 Everyone can apply to be a curator through NexoraFinance by executing the "register" action in Governance and waiting for governance approval.
 
 ```solidity
+struct MarketInfo{
+    bool validState;
+    uint16 feeRate;
+    uint64 bufferTime;
+    uint64 endTime;
+    address feeReceiver;
+    address creator;
+}
+
+struct HookCrossRecord {
+    uint32 destinationDomain;
+    uint64 lastestTime;
+    uint64 lastestBlock;
+    uint64 usdcNonce;
+    bytes32 destHook; 
+    uint256 lastestCrossAmount;
+}
+
 //Register and get vetted to become a curator
 function register(uint16 _feeRate, uint64 _bufferTime, uint64 _endTime, address _feeReceiver) external:
 ```
