@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # How to be a curator?
 
-Everyone can apply to be a curator through NexoraFinance by executing the "register" action in Governance and waiting for governance approval.
+Everyone can apply to be a curator through VineFinance by executing the "register" action in Governance and waiting for governance approval.
 
 ```solidity
 struct MarketInfo{
